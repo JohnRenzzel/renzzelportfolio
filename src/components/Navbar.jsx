@@ -30,7 +30,7 @@ const Navbar = () => {
           <FaGithub />
         </a>
         <a
-          href="https://x.com/johnrenzzel07"
+          href="https://facebook.com/ronz.tajanlangit"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="Messenger"
@@ -38,7 +38,7 @@ const Navbar = () => {
           <FaFacebook />
         </a>
         <a
-          href="https:///www.twitter.com/"
+          href="https://x.com/johnrenzzel07"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="Twitter"
